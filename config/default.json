@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://khalifa123:prepprep1234@stage.bafm8.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId":"19f6c1b74f6f274d4af1",
+    "githubSecret":" 918eb90fcadecaab07a9015efa4df8dc87b197e4"
+} 
